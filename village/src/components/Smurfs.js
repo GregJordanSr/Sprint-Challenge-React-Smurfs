@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
-
 import Smurf from './Smurf';
+// import { NavLink } from 'react-router-dom';
 
 class Smurfs extends Component {
   render() {
