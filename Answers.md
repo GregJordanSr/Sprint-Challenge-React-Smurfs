@@ -6,8 +6,8 @@
 3.  What does CRUD stand for?
     Answer: Create, read, update, and delete
 4.  Which HTTP methods can be mapped to the CRUD acronym that we use when interfacing with APIs/Servers.
-   Answer: GET request correlates to the C in CRUD which stands for Create.
-   POST request correlates to the R in CRUD which stands for Read.
+   Answer: POST request correlates to the C in CRUD which stands for Create.
+   GET request correlates to the R in CRUD which stands for Read.
    PUT request correlates to the U in CRUD which stands for Update.
    DELETE request correlates to the D in CRUD which stands for Delete.
 
